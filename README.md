@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 4 |
+| 2 | 4 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [dp](#dp) (1)
 - [games](#games) (1)
-- [greedy](#greedy) (1)
+- [greedy](#greedy) (2)
 - [strings](#strings) (1)
 
 ---
@@ -36,6 +36,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | Unrated | [Java 21](https://github.com/prkr-28/Codeforces/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.java) |
+| 2248A | [You Delete, I Delete](https://codeforces.com/contest/2248/problem/A) | 800 | [Java 21](https://github.com/prkr-28/Codeforces/blob/HEAD/2248/A%20-%20You%20Delete%2C%20I%20Delete/solution.java) |
 
 ### strings
 
